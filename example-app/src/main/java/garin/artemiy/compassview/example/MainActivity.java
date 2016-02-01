@@ -10,9 +10,10 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import garin.artemiy.compass_view.CompassSensorsActivity;
+import garin.artemiy.compass_view.CompassView;
 import garin.artemiy.compassview.R;
-import garin.artemiy.compassview.library.CompassSensorsActivity;
-import garin.artemiy.compassview.library.CompassView;
 
 import java.util.UUID;
 

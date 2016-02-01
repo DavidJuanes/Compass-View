@@ -1,4 +1,4 @@
-package garin.artemiy.compassview.library;
+package garin.artemiy.compass_view;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -14,7 +14,6 @@ import android.view.animation.AnimationUtils;
 import android.view.animation.LinearInterpolator;
 import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
-import garin.artemiy.compassview.BuildConfig;
 
 /**
  * Author: Artemiy Garin

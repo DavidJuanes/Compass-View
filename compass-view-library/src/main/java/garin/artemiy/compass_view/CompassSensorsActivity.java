@@ -1,4 +1,4 @@
-package garin.artemiy.compassview.library;
+package garin.artemiy.compass_view;
 
 import android.content.Context;
 import android.hardware.Sensor;

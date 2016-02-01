@@ -19,7 +19,7 @@ public class YourActivity extends CompassSensorsActivity {
 
 — Write your view in xml:
 ```java
-<garin.artemiy.compassview.library.CompassView
+<garin.artemiy.compass_view.CompassView
     android:id="@+id/compassView"
     android:layout_height="wrap_content"
     android:layout_width="wrap_content"/>
